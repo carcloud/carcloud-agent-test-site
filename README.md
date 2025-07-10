@@ -46,7 +46,7 @@ carcloud-agent-test-site/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/carcloud-agent-test-site.git
+   git clone https://github.com/carcloud/carcloud-agent-test-site.git
    cd carcloud-agent-test-site
    ```
 
@@ -84,7 +84,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
    - The workflow will automatically deploy your site
 
 3. **Access your site**:
-   - Your site will be available at: `https://yourusername.github.io/carcloud-agent-test-site/`
+   - Your site will be available at: `https://carcloud.github.io/carcloud-agent-test-site/`
 
 ### Manual Deployment
 
